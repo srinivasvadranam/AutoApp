@@ -155,6 +155,8 @@ class EasyApplyLinkedin:
         print('End of the session, see you later!')
         self.driver.close()
 
+
+#sarsarle
     def apply(self):
         """Apply to job offers"""
 
